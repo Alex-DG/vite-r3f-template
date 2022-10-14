@@ -1,7 +1,8 @@
 # vite-r3f-template
 
+## Live
 
-[Live Demo](https://vite-r3f-template.vercel.app/)
+[Demo ✨](https://vite-r3f-template.vercel.app/)
 
 ## Description
 
