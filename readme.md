@@ -10,6 +10,7 @@ Minimal starter project using:
 
 - Vite
 - React-Three-Fiber
+- Drei
 - Sass
 
 ## Setup
@@ -23,7 +24,7 @@ yarn
 # Run the local server at localhost:8080
 yarn dev
 
-OR 
+OR
 
 # Run the local server at your public IP address
 yarn dev --host
