@@ -13,15 +13,14 @@
     "@react-three/fiber": "^9.1.1",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
-    "three": "^0.175.0"
+    "three": "^0.177.0"
   },
   "devDependencies": {
     "@types/react": "^19.1.0",
     "@types/react-dom": "^19.1.1",
-    "@types/three": "^0.175.0",
-    "@vitejs/plugin-react": "^4.3.4",
-    "sass": "^1.86.2",
-    "vite": "^6.2.4",
-    "vite-plugin-glsl": "^1.4.0"
+    "@types/three": "^0.177.0",
+    "@vitejs/plugin-react": "^4.5.2",
+    "vite": "^6.3.5",
+    "vite-plugin-glsl": "^1.4.2"
   }
 }

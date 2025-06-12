@@ -1,34 +1,30 @@
 # vite-r3f-template
 
-## Live
+A minimal starter template for creating 3D web experiences using React Three Fiber.
 
-[Demo ✨](https://vite-r3f-template.vercel.app/)
+## Live Demo
 
-## Description
+[View Demo ✨](https://vite-r3f-template.vercel.app/)
 
-Minimal starter project using:
+## Tech Stack
 
-- Vite
-- React-Three-Fiber
-- Drei
-- Sass
+- [Vite](https://vitejs.dev/) - Next Generation Frontend Tooling
+- [React Three Fiber](https://docs.pmnd.rs/react-three-fiber/) - React renderer for Three.js
+- [Drei](https://github.com/pmndrs/drei) - Useful helpers for React Three Fiber
+- CSS - Simple styling approach
 
-## Setup
-
-Run the following commands:
+## Getting Started
 
 ```bash
 # Install dependencies
 yarn
 
-# Run the local server at localhost:8080
+# Start development server
 yarn dev
 
-OR
-
-# Run the local server at your public IP address
+# Start development server with network access
 yarn dev --host
 
-# Build for production in the dist/ directory
+# Build for production
 yarn build
 ```
